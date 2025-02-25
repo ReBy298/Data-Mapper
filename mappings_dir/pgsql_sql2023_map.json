@@ -1,0 +1,25 @@
+{
+    "VARCHAR": "VARCHAR",
+    "CHAR": "CHAR",
+    "TEXT": "VARCHAR(max)",
+    "BOOLEAN": "BIT",
+    "SMALLINT": "SMALLINT",
+    "INTEGER": "INT",
+    "BIGINT": "BIGINT",
+    "NUMERIC": "NUMERIC",
+    "DECIMAL": "DECIMAL",
+    "REAL": "REAL",
+    "DOUBLE PRECISION": "FLOAT",
+    "DATE": "DATE",
+    "TIME": "TIME",
+    "TIMESTAMP": "TIMESTAMP",
+    "TIMESTAMPTZ": "TIMESTAMP WITH TIME ZONE",
+    "JSON": "JSON",
+    "JSONB": "JSON",
+    "UUID": "UNIQUEIDENTIFIER",
+    "BYTEA": "VARBINARY(max)",
+    "ARRAY": "ARRAY",
+    "XML": "XML",
+    "CITEXT": "VARCHAR"
+  }
+  

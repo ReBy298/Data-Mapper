@@ -1,8 +1,0 @@
-{
-    "TEXT": "VARCHAR",
-    "INTEGER": "INT",
-    "VARCHAR": "VARCHAR",
-    "FLOAT": "FLOAT",
-    "BOOLEAN": "BIT",
-    "BIGINT": "BIGINT"
-}
